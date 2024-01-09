@@ -7,9 +7,9 @@ dependencies:
   # If available, always prefer the conda version of a package.
   # Installation will be faster and more efficient.
   # https://anaconda.org/search
-  - python=3.9.13            # https://pyreadiness.org/3.9/ 
+  - python=3.10.12            # https://pyreadiness.org/3.9/ 
 
-  - pip=22.3.1               # https://pip.pypa.io/en/stable/news/
+  - pip=23.2.1               # https://pip.pypa.io/en/stable/news/
   - pip:
       # Define pip packages here.
       # https://pypi.org/
